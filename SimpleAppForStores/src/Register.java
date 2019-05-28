@@ -4,6 +4,7 @@ public class Register {
 		
 		String name;
 		int id;
+		int mobile;
 		public String getName() {
 			return name;
 		}
